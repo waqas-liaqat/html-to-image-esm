@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-  "satori": "^0.9.0",
-  "@resvg/resvg-js": "^2.0.1"
-}
+    "satori": "^0.9.0",
+    "@resvg/resvg-js": "^2.0.1"
+  }
 }
